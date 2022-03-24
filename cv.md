@@ -1,5 +1,7 @@
 # Denis Martianov <h1>
 
+![Myself](/assets/images/image.jpg)
+
 # My Contact Info <h2>
 \- Phone number: +7(931)311-10-22
 \- GitHub: [frendorDM](https://github.com/frendorDM)
