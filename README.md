@@ -1,1 +1,0 @@
-https://frendorDM.github.io/rsschool-cv/cv
