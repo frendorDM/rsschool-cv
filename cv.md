@@ -3,8 +3,8 @@
 ![Myself](/assets/images/image.jpg)
 
 # My Contact Info <h2>
-\- Phone number: +7(931)311-10-22
-\- GitHub: [frendorDM](https://github.com/frendorDM)
+\- Phone number: +7(931)311-10-22  
+\- GitHub: [frendorDM](https://github.com/frendorDM)   
 \- E-mail: frendor.dm@gmail.com
 
 ## About me <h2>
@@ -25,10 +25,10 @@ I like new tasks
 
 ## Skills <h2>
 
- \- Git/GitHub
- \- C#/.Net
- \- EF/Dapper
- \- Swagger
+ \- Git/GitHub  
+ \- C#/.Net  
+ \- EF/Dapper  
+ \- Swagger  
  \- MSSQL/MySQL/T-Sql
 
 ## Code Examples <h2>
@@ -63,16 +63,15 @@ namespace WebChatApp.Services
 ```
 
 ## Educatiom <h2>
-
-*Bachelor, Sant-Petersburg, Mining University 
+* Bachelor, Sant-Petersburg, MiningUniversity 
     * Information technology
-*Magister, Sant-Petersburg, ITMO University
+* Magister, Sant-Petersburg, ITMO University
     * Information technology
-*Cours DeveEducation
+* Cours DeveEducation
     * C#
     * BackEnd development
 
 ## Language <h2>
 
-Russian - native speaker
+Russian - native speaker  
 English - A2
